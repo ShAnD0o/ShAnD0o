@@ -37,5 +37,7 @@
 <div align="center">
 	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShAnD0o&show_icons=true&locale=en&layout=compact" alt="ShAnD0o" width="450"/></p>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<p align="center" >
+<img src="https://komarev.com/ghpvc/?username=ShAnD0o&&style=flat-square" align="center"  />
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
