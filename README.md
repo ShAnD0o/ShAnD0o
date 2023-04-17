@@ -3,12 +3,20 @@
 <h3 align="center">Computer Engineering Student</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
 
+<p align="center">
 <a href="https://www.linkedin.com/in/abdelrhman-sayed-44927b1aa">
     <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
+<a href="https://twitter.com/1981995A">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>
+<a href="https://www.instagram.com/abdulrahman___sayed/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
 
+	
+	
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
