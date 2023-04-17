@@ -2,6 +2,8 @@
 
 <h3 align="center">Computer Engineering Student</h3>
 
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 160px></picture>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
