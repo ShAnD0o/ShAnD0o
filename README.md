@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm I'm Abdulrahman Sayed <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Abdulrahman Sayed <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <h3 align="center">Computer Engineering Student</h3>
 
